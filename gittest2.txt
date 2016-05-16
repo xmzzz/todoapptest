@@ -5,3 +5,5 @@ test git diff again.
 
 
 Creating a new branch is quick AND simple.
+
+new commit . test --no-ff git merge
