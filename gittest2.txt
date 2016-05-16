@@ -1,1 +1,3 @@
-LICENSE git ÔÝ´æÇøtest
+LICENSE git stage test
+git branch test 
+Creating a new branch is quick.
