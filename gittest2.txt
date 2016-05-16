@@ -1,0 +1,11 @@
+LICENSE git stage test
+git branch test 
+Creating a new branch is quick.
+test git diff again.
+
+
+Creating a new branch is quick AND simple.
+
+new commit . test --no-ff git merge
+
+haha, i fixed it now.
