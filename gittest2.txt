@@ -3,4 +3,5 @@ git branch test
 Creating a new branch is quick.
 test git diff again.
 
-Create a new branch is quick & simple.
+
+Creating a new branch is quick AND simple.
