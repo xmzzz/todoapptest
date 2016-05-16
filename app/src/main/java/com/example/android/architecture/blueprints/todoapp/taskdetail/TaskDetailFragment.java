@@ -209,5 +209,5 @@ public class TaskDetailFragment extends Fragment implements TaskDetailContract.V
     }
     //
     // test git. master. rejected?
-    // test git, again, add new ssh key
+    // test git, again, add new ssh key.
 }
