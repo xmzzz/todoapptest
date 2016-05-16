@@ -207,4 +207,5 @@ public class TaskDetailFragment extends Fragment implements TaskDetailContract.V
     public boolean isActive() {
         return isAdded();
     }
+    //
 }
